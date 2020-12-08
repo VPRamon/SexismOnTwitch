@@ -10,13 +10,21 @@ or
 ```bash
 pip install nltk
 ```
-Make sure you have installed the nltk library: https://pypi.org/project/twitchio/
+Make sure you have installed the twitchio library: https://pypi.org/project/twitchio/
 ```bash
 conda install twitchio
 ```
 or
 ```bash
-pip install twitchiok
+pip install twitchio
+
+Make sure you have installed the FastText library: https://pypi.org/project/fasttext/
+```bash
+conda install fasttext
+```
+or
+```bash
+pip install fasttext
 ```
 
 ## Dataset
