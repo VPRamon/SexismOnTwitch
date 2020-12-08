@@ -36,7 +36,7 @@ The dataset used during the project is open to everyone
 ```python
 data_path = 'Data/'                   ## Path where Training and Testing data is stored
 results_path = 'Results/'             ## Path where Results (model states) is stored
-dataset_path = data_path+'Datasets/'  ## You may not need this specifyed path
+dataset_path = data_path+'Datasets/'  ## You may not need this specified path
 train_path = data_path+'Train/'       
 test_path = data_path+'Test'
 ```
