@@ -38,7 +38,7 @@ data_path = 'Data/'                   ## Path where Training and Testing data is
 results_path = 'Results/'             ## Path where Results (model states) is stored
 dataset_path = data_path+'Datasets/'  ## You may not need this specifyed path
 train_path = data_path+'Train/'       
-test_path = data_path+'Test
+test_path = data_path+'Test'
 ```
 
 contact email: vallespuigramon@gmail.com | david.gayete02@estudiant.upf.edu
