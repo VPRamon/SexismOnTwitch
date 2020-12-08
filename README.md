@@ -17,7 +17,7 @@ conda install twitchio
 or
 ```bash
 pip install twitchio
-
+```
 Make sure you have installed the FastText library: https://pypi.org/project/fasttext/
 ```bash
 conda install fasttext
